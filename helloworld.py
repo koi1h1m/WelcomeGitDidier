@@ -1,2 +1,2 @@
-# This is part of lab 2 of our Git101 Jupyter Notebook 
+# This is part of labs of our Git101 Jupyter Notebook 
 print("Hello world!")
